@@ -21,4 +21,3 @@ jobs:
     name: "Build the app for production"
     script:
     - yarn build
-    - yarn deploy
