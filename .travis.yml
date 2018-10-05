@@ -1,0 +1,23 @@
+language: node_js
+
+os:
+- linux
+- osx
+
+cache:
+  bundler: false
+
+stages:
+- build
+
+node_js:
+- 8
+- node
+
+jobs:
+  include:
+
+  - stage: build
+    name: "Build the app for production"
+    script:
+    - yarn build
