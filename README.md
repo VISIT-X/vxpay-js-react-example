@@ -1,5 +1,7 @@
 ## React example of `vxpay-js` integration
 
+[![Build Status](https://travis-ci.org/VISIT-X/vxpay-js-react-example.svg?branch=master)](https://travis-ci.org/VISIT-X/vxpay-js-react-example)
+
 How did we get here:
 
 ````bash
