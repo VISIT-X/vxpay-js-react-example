@@ -48,7 +48,7 @@ class App extends Component {
 	render() {
 		const userPanel = this.state.isLoggedIn
 			? <span>Hello, {this.state.username}</span>
-			: <a className="App-link" onClick={this.openVxPay} style={{ cursor: "pointer" }}>Login</a>;
+			: <a href='#' className="App-link" onClick={this.openVxPay} style={{ cursor: "pointer" }}>Login</a>;
 
 		return (
 			<div className="App">
