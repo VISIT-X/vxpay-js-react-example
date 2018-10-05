@@ -10,7 +10,7 @@ cd vxpay-js-react
 yarn add vxpay-js
 ````
 
-As a result, we have a UI with a login button:
+As a [result](https://visit-x.github.io/vxpay-js-react-example/), we have a UI with a login button:
 
 <img src='https://raw.githubusercontent.com/VISIT-X/vxpay-js-react-example/master/vxpay-js-react-example.gif' width='600' alt='npm start' />
 
