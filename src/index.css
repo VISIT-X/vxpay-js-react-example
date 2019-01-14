@@ -12,3 +12,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.portal {
+  position: absolute;
+  top: 5px;
+  right: 20px;
+  z-index: 1000;
+}
