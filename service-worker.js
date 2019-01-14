@@ -11,10 +11,10 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/vxpay-js-react-example/precache-manifest.627f451323b58f22fa2f0b8b71815ee8.js"
+  "/vxpay-js-react-example/precache-manifest.42d4bfd7985d8edba94ec8dacc1eae2b.js"
 );
 
 workbox.clientsClaim();
